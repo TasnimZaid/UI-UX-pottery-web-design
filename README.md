@@ -1,1 +1,3 @@
 # UI-UX-pottery-web-design
+
+## Welcome to my portfolio showcasing the intersection of pottery and UX/UI design! Here, I merge the timeless craft of pottery with the modern principles of user experience and interface design to create truly unique and engaging pieces. Each pottery creation is not just a work of art but a thoughtful user experience.                                                              Mokup ( https://www.figma.com/design/nUr2eqBf8wNHtn6AAa5YmM/Untitled?node-id=4-8&t=ek8FC6CZLqZTekqU-0 ) ,                                                                                                                    wireframe (https://www.figma.com/design/nUr2eqBf8wNHtn6AAa5YmM/Untitled?node-id=1-10&t=ek8FC6CZLqZTekqU-0) .
